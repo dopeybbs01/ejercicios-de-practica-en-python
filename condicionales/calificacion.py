@@ -5,7 +5,7 @@ script en python que solicita la calificacion y la
  entonce que le indique que ha aprobado el curso.
 
 """
-qualification  = int(input("¿cual es tu calificación?\n"))
+qualification = int(input("¿cual es tu calificación?\n"))
 attendance = int(input("¿cual es tu cantidad de asistencia?\n"))
 
 
